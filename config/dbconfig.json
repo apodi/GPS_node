@@ -1,0 +1,10 @@
+{
+  "description": "configurations for connecting to below sql database",
+  "gps_mysql_db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
+    "database": "transimplify"
+  }
+}
+
